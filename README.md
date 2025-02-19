@@ -12,7 +12,7 @@ I am a Master's student at **KIT, Germany**, currently working on my **Master's 
 - **Interests:** Computational Fluid Dynamics (CFD), HPC, Scientific Computing
 
 ### 📫 Get in Touch
-- LinkedIn: [LinkedIn]([#](https://www.linkedin.com/in/florian-kaiser-742975226)
+- LinkedIn: [https://www.linkedin.com/in/florian-kaiser-742975226](#)
 - GitHub: [GitHub]([#](https://github.com/flo2198))
 
 
