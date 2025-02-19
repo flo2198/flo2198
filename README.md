@@ -13,7 +13,7 @@ I am a Master's student at **KIT, Germany**, currently working on my **Master's 
 
 ### 📫 Get in Touch
 - LinkedIn: [https://www.linkedin.com/in/florian-kaiser-742975226](LinkedIn)
-- GitHub: [GitHub]([#](https://github.com/flo2198))
+- GitHub: [https://github.com/flo2198]
 
 
 
